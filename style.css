@@ -1,0 +1,11 @@
+#btn-color {
+    border-radius: 5px;
+    width: 100px;
+}
+
+.footer-clr {
+    background-color: black;
+    margin-top: 100px;
+    padding: 50px;
+    color: aliceblue;
+}
